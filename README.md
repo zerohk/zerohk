@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zerohk
 - 👀 I’m interested in movies and series
-- 🌱 I’m currently learning scheme
+- 🌱 I’m currently learning c python and calculus
 - 💞️ I’m looking to collaborate on java
 - 📫 How to reach me 
 
